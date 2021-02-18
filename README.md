@@ -2,7 +2,8 @@
 
 
 ### :ledger: About:
-You cna use this files to host a static website on S3.
+
+You can use this files to host a static website on Amazon S3.
 
 
 --- 
